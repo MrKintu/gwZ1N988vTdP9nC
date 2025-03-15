@@ -27,12 +27,7 @@ Introduction: Overview of the wine dataset and the objective of the notebook.
 Q1: Build a Decision Tree Classifier model with max_depth = 5 and random_state=100.
 Q2: Visualize the constructed Decision Trees using Matplotlib.
 Contributing
-If you would like to contribute to this notebook, please fork the repository and submit a pull request with your changes.
+If you want to contribute to this notebook, please fork the repository and submit a pull request with your changes.
 
 License
 This project is licensed under the MIT License.
-
-Contact Information
-For questions or feedback, please contact:
-
-Kintu Declan Trevor (100944330)
